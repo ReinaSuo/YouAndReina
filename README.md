@@ -1,27 +1,35 @@
 # YouAndReina
 
+
 ## 缘起
 
-毕业后，第一次找人合租，找室友的难度不亚于找男朋友。
+毕业后，第一次找人合租，匹配室友的难度不亚于找男朋友。
 
-刚开始大海捞针，也还觉得很有希望，但当你刚发现一个三观合适的人，要拉伙进入暧昧期，甚至热恋期的时候，矛盾就出来了，并非网友都不靠谱，而是不合适。
+刚开始大海捞针，也还觉得很有希望，但当你 date 一些，好不容易找到一个三观合适的人，要拉伙进入暧昧期，甚至热恋期的时候，矛盾就出来了，并非人品问题，只是不合适。
 
-尤其对于生活不愿凑合的人来说，需要精准磨合，所以写了大量 Self-discovery 清单，帮气味相投的人快速定位到我。
+尤其对于生活不愿凑合的人来说，很少遇到缘分不浅、一拍即合的人。必须精准匹配，提前磨合。所以写了大量 Self-discovery 清单，帮气味相投的人快速定位到我。
 
-还选择了豆瓣，自认为是一个有交集的频道，渠道➕快速上手清单，也是难于上青天。
+选择豆瓣发布，自认为是一个有交集的频道。渠道➕快速上手清单，却也难于上青天。至今我都没找到比这个更难的事情，所以我的方法是——放弃，自己住。
 
-至今我都没找到比这个更难的事情，所以我的方法是——放弃，自己住。
+但那些当时整理出来的个人资料，在我后来的几年生活、工作中发挥了大作用，现在还在不断完善中，每年都有变化和增补，认识自我是条看不到头的路。
 
-但那些当时整理出来的个人资料，在我后来的几年生活、工作中发挥了大作用，现在也还在不断完善中。
+## 驱动
 
-贴在这里，希望我们沟通顺畅~
+刚入职，看到公司共创文件中有人写了 BOSS 指南，耳目一新。当周周报就总结分享，说看到这个清单好兴奋，以后每个同事都要写，方便沟通协作，新人也能快速了解丛林状况，减少对接时间。 
 
+后来去了文件创建人 @ishanshan  的 Repositories，[collaborate_ishanshan](https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md) ，宝藏呀，推荐你去逛逛。可惜我入职的时候，闪闪刚离职不久，所以她就成了一个活在传说里的人。
+
+但隔着屏幕，可以向她学习，也很开心。
+
+所以这个创意想拿来所用，其实很久了，一直没提上日程。
+
+疫情有空，整理贴上来，希望我们沟通顺畅~
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
----
 
 ## CHANGELOG
 
+* 200304 01:08 Reina 更新
 * 200303 19:12 Reina 创建
 
