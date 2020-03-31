@@ -17,12 +17,12 @@ Tags： `性别平等主义学习者`  `环保学习者`
     + [Favorite](#favorite)
     + [语言习惯](#语言习惯)
     + [口头禅](#口头禅)
-  * [work](#work)
-    + [communication](#communication)
-    + [schedule](#schedule)
-    + [feature](#feature)
+  * [Work](#work)
+    + [Communication](#communication)
+    + [Schedule](#schedule)
+    + [Feature](#feature)
   * [友情提示](#友情提示)
-  * [CHANGELOG](#changelog)
+  * [ChangeLog](#changelog)
 
 
 ## Life
