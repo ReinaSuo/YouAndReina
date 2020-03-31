@@ -15,21 +15,18 @@
 
 ## 驱动
 
-刚入职，看到公司共创文件中有人写了 BOSS 指南，耳目一新。当周周报就总结分享，说看到这个清单好兴奋，以后每个同事都要写，方便沟通协作，新人也能快速了解丛林状况，减少对接时间。 
+刚入职，看到公司共创文件中有人写了 BOSS 使用指南，耳目一新。当周周报就总结分享，说看到这个清单好兴奋，以后每个同事都要写，方便沟通协作，新人也能快速了解丛林状况，减少对接时间。 
 
-接着去了指南创建人闪闪的仓库逛，宝藏呀，虽然我入职的时候，她刚离职不久。但隔着屏幕，可以向她学习。
-
-也看到 @mzlogin 等更多的人在 GitHub 建立类似的仓库，但闪闪的风格我更喜欢。
+接着去了指南创建人闪闪的仓库逛，看到 @mzlogin 等更多的人在 GitHub 建立类似的仓库，虽然我入职的时候，她刚离职不久。但隔着屏幕，可以在 GitHub 向他们学习。
 
 所以这个创意想拿来所用，其实很久了，一直没提上日程。
 
-疫情有空，整理贴上来，希望我们沟通顺畅~
+疫情有空，整理贴上来，[Reina 使用指南](#Reina 使用指南)，希望我们沟通顺畅~
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 
 ## CHANGELOG
-
+* 200331 14:05 Reina 修改语法
 * 200304 01:08 Reina 更新
 * 200303 19:12 Reina 创建
-
