@@ -21,7 +21,7 @@
 
 所以这个创意想拿来所用，其实很久了，一直没提上日程。
 
-疫情有空，整理贴上来，[Reina 使用指南](#Reina 使用指南)，希望我们沟通顺畅~
+疫情有空，整理贴上来，[Reina 使用指南](https://github.com/ReinaSuo/YouAndReina/blob/master/HbUsageReina.md)，希望我们沟通顺畅~
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
