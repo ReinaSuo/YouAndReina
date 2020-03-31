@@ -148,7 +148,7 @@ Tags： `性别平等主义学习者`  `环保学习者`
 	- 如果要找她合作，她喜欢你一次性把意图背景行动疑问说清楚，以便获得全局信息高效决策，不喜欢像挤牙膏一样，她问一点你说一点。
 	- 喜欢和自主解决问题能力的人打交道。如果是检索检索几下就能得到解决方案的问题，关系好会很愿意分享已知信息；否则会告诉你百度一下。
 	- 不能自由穿墙会焦躁不安。
-6. 常用工具见 [IdxCooperateBasicSkill · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill)，从第一次上开智的课程开始，就一直使用到现在。
+6. 常用工具见 [工欲善其事](https://github.com/ReinaSuo/TopLife#%E5%B7%A5%E6%AC%B2%E5%96%84%E5%85%B6%E4%BA%8B)。
 	
 
 ## 友情提示
@@ -157,5 +157,5 @@ Tags： `性别平等主义学习者`  `环保学习者`
 > 如无必要，勿增实体 —— 奥卡姆
 
 ## ChangeLog
-* 200331 16:01 Reina 修改语法，增补目录
+* 200331 16:01 Reina 修改语法，增补目录，替换链接
 * 200324 13:28 Reina 创建
