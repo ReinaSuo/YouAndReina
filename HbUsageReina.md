@@ -9,8 +9,23 @@ Tags： `性别平等主义学习者`  `环保学习者`
 * Email：reinasuo@qq.com，suowenjiao@gmail.com
 * 抖音 ID：ReinaSuo
 
+目录：
+  * [Life](#life)
+    + [Habit](#habit)
+    + [Personality](#personality)
+    + [愤怒清单](#愤怒清单)
+    + [Favorite](#favorite)
+    + [语言习惯](#语言习惯)
+    + [口头禅](#口头禅)
+  * [work](#work)
+    + [communication](#communication)
+    + [schedule](#schedule)
+    + [feature](#feature)
+  * [友情提示](#友情提示)
+  * [CHANGELOG](#changelog)
 
-## life
+
+## Life
 1. 吃蛋奶的素食者。
 2. 心理喜欢健康的蒸煮风格，生理离不开川湘麻辣。
 3. 不自觉脸红，不是害羞表现。
@@ -92,10 +107,10 @@ Tags： `性别平等主义学习者`  `环保学习者`
 12. 哈哈开心~
 13. 有意思
 
-## work
+## Work
 工作生活有交集，但处理方式有区别。这个部分是把 [@ishanshan](https://github.com/ishanshan) 的 [使用指南](https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md) 根据自己情况作了增减。偷懒的做法，但是好用，有些是自己已经在这样做的习惯，有些觉得是好习惯，拿来学。
 
-### communication
+### Communication
 1. **IM 工具在手机电脑上都只显示消息数目，不弹出消息， Mac 全天勿扰模式**：
     - 重要沟通最好提前至少 4h 打招呼，并说明沟通议题，以便她准备；
     - 急事直接电话或当面找她就好。
@@ -116,14 +131,14 @@ Tags： `性别平等主义学习者`  `环保学习者`
     * 群发问候/投票/广告
 
 
-### schedule
+### Schedule
 
 1. 作息规律，一般 22:30 睡 6:30 起，正负浮动半小时。21:00 后的工作信息不回复。
 2. 周末用电脑时间不固定，有事请提前至少 4h 和她打招呼。
 3. 周末聚会、约会至少提前 3 天沟通时间，做心理建设用的，太宅了。周内聚提前 24h。
 
 
-### feature
+### Feature
 1. 喜欢在舞台中央，但不是一个人，而是一群人一起。
 2. **喜欢建立规则、机制，优化流程、提升效率**，做事情常考虑未来如何复用。
 3. 喜欢用提问自我反思、引导别人思考（学习中）。
@@ -141,5 +156,6 @@ Tags： `性别平等主义学习者`  `环保学习者`
 2. 不会出错的礼物：提高效率的 App，高质量网课，电子书或值得收藏的纸质书。
 > 如无必要，勿增实体 —— 奥卡姆
 
-## CHANGELOG
+## ChangeLog
+* 200331 16:01 Reina 修改语法，增补目录
 * 200324 13:28 Reina 创建
